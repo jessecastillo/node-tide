@@ -1,0 +1,18 @@
+# Build and temp files
+DerivedData/
+build/
+*.xcworkspace
+xcuserdata/
+
+# macOS
+.DS_Store
+
+# Swift Package Manager
+.swiftpm/
+Packages/
+
+# Xcode metadata
+*.pbxuser
+*.mode1v3
+*.mode2v3
+*.xcuserstate
